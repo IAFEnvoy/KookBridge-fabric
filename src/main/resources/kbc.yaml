@@ -1,0 +1,11 @@
+mode: "websocket"
+
+compress: true
+
+ignore-remote-call-invisible-internal-command: true
+
+save-console-history: true
+
+ignore-sn-order: false
+
+allow-help-ad: true

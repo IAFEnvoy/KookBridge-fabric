@@ -1,0 +1,5 @@
+name: KookBridge
+version: 0.1.0
+authors: ["IAFEnvoy"] # e.g. ["SNWCreations"]
+main: net.iafenvoy.kookbridge.kook.BridgePlugin # e.g. snw.pingbot.Main
+api-version: 0.48.2 # 注意，这个必不可少!
